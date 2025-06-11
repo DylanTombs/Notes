@@ -28,6 +28,14 @@ The **RSI** measures the speed and magnitude of price movements to identify *
 
 RS = Avg Loss / Avg Gain​
 
+Sharpe Ratio:
+
+The **Sharpe Ratio** measures how much **excess return** you earn per unit of **risk** (volatility) you take
+
+![[Screenshot 2025-06-11 at 19.07.00.png]]
+
+
+
 
 #### **Momentum Ignition (Week 1)**
 
