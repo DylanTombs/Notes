@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trading Algorithms.md",
+                "file": "Transformer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trading Algorithms"
+              "title": "Transformer"
             }
           },
           {
@@ -139,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 242.5
   },
   "right": {
     "id": "469c5268d75f61e6",
@@ -242,10 +242,10 @@
   },
   "active": "2095f045e41ac376",
   "lastOpenFiles": [
+    "Trading Algorithms.md",
     "Transformer.md",
     "Dual Moving Average Crossover.md",
     "Machine Learning.md",
-    "Trading Algorithms.md",
     "Screenshot 2025-06-11 at 20.44.19.png",
     "Screenshot 2025-06-11 at 20.30.31.png",
     "Finance.md",
