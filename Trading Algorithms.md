@@ -1,8 +1,6 @@
 
 [[Python]] 
 
-
-
 [QuantConnect]
 
 | Feature             | Description                                                                         |
