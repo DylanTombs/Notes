@@ -47,3 +47,17 @@ The div term is then created using the frequency term calculation for wavelength
 An empty matrix is intialised of size (max_len, d_model) and we broadcast these values to them `position (max_len,1) * div_term (d_model//2,)` → `(max_len, d_model//2)`
 
 The forward pass the first sequence number of precomputed encodings, adding them to the input embeddings, this preserves the embedding but also adds the positional info. 
+
+## Feed Forward
+
+This is a mini neural network with 2 weights and 2 bias vectors, with a simple ReLu activation in between. The weights are randomly generated and the bias vectors are initialised to 0. 
+
+The forward pass consists of applying the ReLu activation to the input with the first weight and bias. This is then applied to the second weight and bias. 
+
+## Layer Normalisation
+
+Gamma acts as the scaling factor, allowing the network to learn how much to scale the features
+Beta acts as the shifting factor, allowing the network to learn offsets for each feature
+Epsilon is also used for numerical stability (small constant)
+
+For its forward pass, it calculates the mean along the last axis (dimension) and also calculates the standard deviation. It them 

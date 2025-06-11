@@ -6,7 +6,7 @@
       {
         "id": "98b064e1d5b1ef3f",
         "type": "tabs",
-        "dimension": 79.65412004069175,
+        "dimension": 70.09155645981689,
         "children": [
           {
             "id": "8e5cce1a851f94e6",
@@ -70,7 +70,7 @@
       {
         "id": "a27581a66fcba56a",
         "type": "tabs",
-        "dimension": 20.345879959308242,
+        "dimension": 29.90844354018311,
         "children": [
           {
             "id": "de3cf7fa4327308c",
@@ -139,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.5
+    "width": 200
   },
   "right": {
     "id": "469c5268d75f61e6",
@@ -242,8 +242,8 @@
   },
   "active": "2095f045e41ac376",
   "lastOpenFiles": [
-    "Trading Algorithms.md",
     "Transformer.md",
+    "Trading Algorithms.md",
     "Dual Moving Average Crossover.md",
     "Machine Learning.md",
     "Screenshot 2025-06-11 at 20.44.19.png",
