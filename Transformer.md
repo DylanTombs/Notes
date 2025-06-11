@@ -5,12 +5,6 @@
 
 ![[Screenshot 2025-06-11 at 20.30.31.png]]
 
-## Positional Encoding
-
-It injects **sequence order information** using a deterministic function (usually sine & cosine) into the embeddings, so the model can differentiate position `1` from position `50`
-
-![[Screenshot 2025-06-11 at 20.44.19.png]]
-
 ## Encoder Layer
 
 Initially it computes attention scores for the input sequence (`Q=K=V=x`). Applying a `mask` (optional): Prevents attending to future tokens (for decoders) or padding. It then applies a dropout which randomly zeros out activations to prevent overfitting. It applies this to the original input and then normalises the result. 
@@ -18,7 +12,7 @@ Initially it computes attention scores for the input sequence (`Q=K=V=x`). Apply
 For the next stage that result is passed into the forward feed which non-linear transforms each token independently. This is then applied similarly, dropout and then normalising with the dropout. 
 
 ### Dropout
-![[Screenshot 2025-06-11 at 20.44.19.png]]
+
 Randomly masks activations during training (scaled to preserve expected magnitude) where it scales according to the rate given. This prevents overfitting. 
 
 ## Input Embedding
@@ -40,12 +34,16 @@ These returned values are then multiplied with v, as each token becomes a weight
 
 ## Positional Encoding
 
+It injects **sequence order information** using a deterministic function (usually sine & cosine) into the embeddings, so the model can differentiate position `1` from position `50`
+
+
+
 Firstly, a column vector of positions of the given sequence are created, which is converted into (max_len, 1) for broadcasting. 
 
-The div term is then created using the frequency term calculation for wavelength control that only computes for even integers and uses log-space for numerical stability. The outputted shape is now (d_model//2,)
-
-An empty matrix is intialised of size (max_len, d_model)
-
-We apply sine/cosine encoding to the div_terms
+The div term is then created using the frequency term calculation for wavelength control that only computes for even integers and uses log-space for numerical stability. The outputted shape is now (d_model//2,) We apply sine/cosine encoding to the div_terms. 
 
 ![[Screenshot 2025-06-11 at 20.44.19.png]]
+
+An empty matrix is intialised of size (max_len, d_model) and we broadcast these values to them `position (max_len,1) * div_term (d_model//2,)` → `(max_len, d_model//2)`
+
+The forward pass the first sequence number of precomputed encodings, adding them to the input embeddings, this preserves the embedding but also adds the positional info. 
