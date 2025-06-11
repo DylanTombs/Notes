@@ -199,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5be21e24785868d1",
+  "active": "9db7ae03fb25cff5",
   "lastOpenFiles": [
     "Trading Algorithms.md",
     "Dual Moving Average Crossover.md",
