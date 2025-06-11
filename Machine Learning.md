@@ -63,3 +63,15 @@ Each time step can "pay attention" to all other steps — the model learns **whi
 - **Self-Attention Layers**
     
 - **Positional Encoding** (so it knows the order of the sequence)
+
+
+Core Components:
+
+| Component                | Purpose                          | Math                                   |
+| ------------------------ | -------------------------------- | -------------------------------------- |
+| **Input Embedding**      | Converts tokens to vectors       | `E = Wₑ · x` (embedding matrix)        |
+| **Positional Encoding**  | Adds order information           | `PE(pos,2i) = sin(pos/10000²ⁱ/ᵈ)`      |
+| **Multi-Head Attention** | Weights importance of each token | `Attention(Q,K,V) = softmax(QKᵀ/√dₖ)V` |
+| **Feed Forward**         | Non-linear transformation        | `FFN(x) = ReLU(xW₁ + b₁)W₂ + b₂`       |
+| **Layer Norm**           | Stabilizes learning              | `Norm(x) = (x - μ)/σ · γ + β`          |
+| **Residual Connections** | Prevents vanishing gradients     | `x + Sublayer(x)`                      |
