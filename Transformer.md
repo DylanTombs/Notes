@@ -60,4 +60,4 @@ Gamma acts as the scaling factor, allowing the network to learn how much to scal
 Beta acts as the shifting factor, allowing the network to learn offsets for each feature
 Epsilon is also used for numerical stability (small constant)
 
-For its forward pass, it calculates the mean along the last axis (dimension) and also calculates the standard deviation. It them 
+For its forward pass, it calculates the mean along the last axis (dimension) and also calculates the standard deviation. It then normalises the values, subtracting the mean (centring), divides by standard deviation and the epsilon. This is all then scaled and shifted
