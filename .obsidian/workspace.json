@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance.md",
+                "file": "Portfolio Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finance"
+              "title": "Portfolio Theory"
             }
           },
           {
@@ -240,8 +240,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2095f045e41ac376",
+  "active": "de3cf7fa4327308c",
   "lastOpenFiles": [
+    "Portfolio Theory.md",
+    "Risk vs Return.md",
+    "Efficient Market Hypothesis (EMH).md",
+    "Finance.md",
+    "Asset Classes.md",
+    "Financial Statements.md",
+    "UntitledFinance Fundam.md",
     "Trading Algorithms.md",
     "Transformer.md",
     "Python.md",
@@ -249,7 +256,6 @@
     "Dual Moving Average Crossover.md",
     "Machine Learning.md",
     "Screenshot 2025-06-11 at 20.44.19.png",
-    "Screenshot 2025-06-11 at 20.30.31.png",
-    "Finance.md"
+    "Screenshot 2025-06-11 at 20.30.31.png"
   ]
 }
