@@ -6,7 +6,7 @@
       {
         "id": "98b064e1d5b1ef3f",
         "type": "tabs",
-        "dimension": 70.09155645981689,
+        "dimension": 35.3448275862069,
         "children": [
           {
             "id": "8e5cce1a851f94e6",
@@ -98,7 +98,7 @@
       {
         "id": "a27581a66fcba56a",
         "type": "tabs",
-        "dimension": 29.90844354018311,
+        "dimension": 64.65517241379311,
         "children": [
           {
             "id": "de3cf7fa4327308c",
@@ -268,10 +268,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c690acef48581cc0",
+  "active": "de3cf7fa4327308c",
   "lastOpenFiles": [
-    "Capital Asset Pricing Model (CAPM).md",
     "Black-Litterman Model.md",
+    "Capital Asset Pricing Model (CAPM).md",
     "Screenshot 2025-07-13 at 20.59.57.png",
     "Transformer.md",
     "Portfolio Theory.md",
