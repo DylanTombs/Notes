@@ -26,3 +26,28 @@
 - Combines with risky portfolio → forms a straight line (CML)
 - Slope = Sharpe Ratio
 - Tangent point = Market Portfolio
+
+---
+
+## Formulas
+
+### Expected Portfolio Return:
+
+![[Screenshot 2025-07-13 at 20.56.05.png]]
+
+### Portfolio Variance (2 assets):
+
+![[Screenshot 2025-07-13 at 20.56.19.png]]
+
+Where:
+
+- wi = weight of asset i
+    
+- σi = standard deviation
+    
+- ρ12 = correlation between assets
+---
+## Related Concepts
+
+- [[Risk vs Return]]
+- [[Efficient Market Hypothesis (EMH)]]
