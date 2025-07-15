@@ -4,6 +4,8 @@
 
 5-10 years
 Unlevered
+
+Perpituality Growth Method
 ### Terminal Value
 
 ## Discount Rate
