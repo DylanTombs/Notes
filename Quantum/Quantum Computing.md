@@ -96,5 +96,50 @@
 - Error correction remains key challenge
 - No clear "winner" among technologies yet
 
+## Classical vs Quantum Bits
+**Classical Bits:**
+- Fixed 0 or 1 states
+- Operations: addition, multiplication, logic ops, bit shifts
+- Hundreds of possible manipulations
 
-![[Screenshot 2025-07-16 at 19.53.43.png]]![[Screenshot 2025-07-16 at 19.55.44.png]]![[Screenshot 2025-07-16 at 19.57.03.png]]![[Screenshot 2025-07-16 at 19.59.12.png]]![[Screenshot 2025-07-16 at 19.59.39.png]]
+**Quantum Bits (Qubits):**
+- Store complex number amplitudes for all possible states
+- For N qubits: 2ᴺ complex numbers needed to represent state
+- Physical interpretation remains mysterious
+
+![[Screenshot 2025-07-16 at 19.53.43.png]]
+
+## Basic Quantum Gates
+
+### Bit Flip Gate (X Gate)
+
+![[Screenshot 2025-07-16 at 19.55.44.png]]
+
+### Phase Flip Gate (Z Gate)
+
+
+![[Screenshot 2025-07-16 at 19.57.03.png]]
+
+### Hadamard Gate (H Gate), Controlled-NOT (CNOT)
+
+
+- Second application returns to basis state
+- |+⟩ and |-⟩ are physically distinguishable
+
+![[Screenshot 2025-07-16 at 19.59.39.png]]
+
+### Controlled-Z (CZ)
+
+![[Screenshot 2025-07-16 at 20.04.44.png]]
+
+- Flips sign only for |11⟩ state
+- Symmetric - no distinction between control/target
+- Circuit symbol: vertical line connecting qubits
+
+
+
+## Quantum Circuits
+
+![[Screenshot 2025-07-16 at 19.59.12.png]]
+
+![[Screenshot 2025-07-16 at 20.08.38.png]]
