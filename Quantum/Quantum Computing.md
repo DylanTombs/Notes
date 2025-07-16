@@ -143,3 +143,91 @@
 ![[Screenshot 2025-07-16 at 19.59.12.png]]
 
 ![[Screenshot 2025-07-16 at 20.08.38.png]]
+
+# Quantum Error Correction
+
+## Classical Error Correction Primer
+**Problem:**
+- Bits flip with probability p per unit time
+- Need reliable storage beyond 1/p time
+
+**Solution:**
+1. **Repetition Code:**
+   - Store multiple copies (e.g., 5 bits)
+   - Majority voting corrects single errors
+   - Fails when >50% bits flip (order p³ error rate)
+
+2. **Code Distance:**
+   - Distance d = minimum flips to change logical state
+   - Can correct ⌊d/2⌋ errors
+   - Higher distance → exponentially suppressed errors
+
+**Advanced Processing:**
+- **Parity Check Approach:**
+  - Compare bit pairs instead of direct measurement
+  - Build error graph → minimum weight perfect matching
+  - Identifies error locations without direct bit access
+  - Equivalent to majority voting but more quantum-compatible
+
+![[Screenshot 2025-07-16 at 20.42.53.png]]
+
+## Quantum Error Challenges
+### Hardware Imperfections:
+1. **Leakage Errors:**
+   - Qubits excite beyond |0⟩/|1⟩ states
+   - Corrupts neighboring qubits through gates
+   - Must be handled at hardware level
+
+![[Screenshot 2025-07-16 at 20.44.54.png]]
+
+2. **Measurement-Induced Errors:**
+   - High-power readout can excite qubits
+   - Tradeoff between speed and error rate
+   - Multi-qubit crosstalk concerns
+
+![[Screenshot 2025-07-16 at 20.45.17.png]]
+
+3. **Energy Deposition:**
+   - Chip at 10mK is extremely sensitive
+   - Energy spikes cause temporary "heating"
+   - Results in ~50% error rates for milliseconds
+
+## Quantum Error Model
+
+**Key Assumptions:**
+1. No leakage (only |0⟩ and |1⟩ states exist)
+2. Errors manifest as:
+   - Single-qubit: Arbitrary 2×2 matrices
+   - Two-qubit: Arbitrary 4×4 matrices
+   - During initialisation/measurement
+
+![[Screenshot 2025-07-16 at 20.47.27.png]]
+
+![[Screenshot 2025-07-16 at 20.57.00.png]]
+
+**Pauli Basis Decomposition:**
+
+![[Screenshot 2025-07-16 at 20.59.14.png]]
+
+**Tensor Product Notation:**
+
+![[Screenshot 2025-07-16 at 21.00.51.png]]
+
+## Error Correction Strategy
+1. **Focus on X/Z Errors:**
+   - Since arbitrary errors decompose into Paulis
+   - Correcting X/Z handles all linear combinations
+
+2. **Need to Detect:**
+   - Bit flips (X errors)
+   - Phase flips (Z errors)
+   - Both (Y errors)
+
+3. **Without:**
+   - Direct state measurement (would collapse superpositions)
+   - Copying states (no-cloning theorem)
+
+**Key Insight:**
+- Use ancilla qubits to extract error syndromes
+- Perform parity checks analogously to classical case
+- Correct based on syndrome measurements
