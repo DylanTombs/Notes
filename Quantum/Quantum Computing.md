@@ -303,3 +303,8 @@
 
 **Modified Circuit:**
 
+![[Screenshot 2025-07-18 at 20.22.05.png]]
+
+- Detects Z errors instead of X errors
+- Uses Hadamard transforms to change basis
+- Same detection principles apply
