@@ -231,3 +231,75 @@
 - Use ancilla qubits to extract error syndromes
 - Perform parity checks analogously to classical case
 - Correct based on syndrome measurements
+
+## Foundational Quantum Error Detection Circuits
+
+**Key Building Blocks:**
+1. **Basic Measurement Circuit:**
+
+![[Screenshot 2025-07-18 at 20.18.38.png]]
+
+- Measures in X-basis (detects |+⟩/|-⟩ states)
+- Denoted as Mₓ measurement
+
+1. **Error Detection Prototype:**
+
+![[Screenshot 2025-07-18 at 17.56.25.png]]
+
+- **No errors:** Stream of 0s
+- **Data qubit error:** Permanent measurement flip (0→1)
+- **Measure qubit error:** Single odd measurement
+
+## Stabilizer Circuits
+### Two-Data-Qubit Detector:
+
+![[Screenshot 2025-07-18 at 17.59.54.png]]
+
+  
+- Detects if q₁ and q₂ become different - Preserves superposition α|00⟩ + β|11⟩ 
+- Cannot identify which qubit flipped
+
+
+![[Screenshot 2025-07-18 at 18.06.36.png]]
+
+### Three-Data-Qubit Version:
+
+- **Detectors:** Pairs of consecutive measurements
+- **Detection Event:** Odd parity in measurement pair
+
+  
+## Error Location Patterns
+**Bit Flip Errors Create:**
+1. **Vertical Pairs:** 
+	   - Errors between measurement rounds
+2. **Diagonal Pairs:**
+	   - Errors during gate operations
+	
+![[Screenshot 2025-07-18 at 18.06.36.png]]
+
+**Decoding Process:**
+1. Identify all detection events (measurement changes)
+2. Build error probability graph:
+   - Nodes: Detection events
+   - Edges: Possible error locations
+   - Weights: -log(probability)
+3. Apply **minimum weight perfect matching** to:
+   - Pair detection events
+   - Or connect to boundary (for odd counts)
+
+## Code Properties
+
+**Distance-3 Code Example:**
+- Can correct 1 error (⌊3/2⌋)
+- Fails when ≥2 errors cause:
+  - Measurement double-flips (undetectable)
+  - Misleading detection patterns
+
+**Scalability:**
+- Adding more qubits → higher distance
+- Linear resource increase → exponential error suppression
+
+## Phase Flip Detection
+
+**Modified Circuit:**
+
