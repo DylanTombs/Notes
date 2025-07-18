@@ -309,9 +309,53 @@
 - Uses Hadamard transforms to change basis
 - Same detection principles apply
 
-## Stabilizer Fundamentals
+## Stabiliser Fundamentals
 **Definition:**
 - An operator that leaves a quantum state unchanged (`S|ψ⟩ = |ψ⟩`)
-- The set of all stabilizers for a state forms its **stabilizer group**
+- The set of all stabilisers for a state forms its **stabiliser group**
 
-**Single-Qubit Examples:**
+![[Screenshot 2025-07-18 at 21.03.20.png]]
+
+States can be uniquely defined by their stabilisers rather than explicit wavefunctions
+
+## Multi-Qubit Stabilisers
+
+**Stabiliser Generators:**
+
+![[Screenshot 2025-07-18 at 21.04.03.png]]
+
+
+**Verification:**
+
+![[Screenshot 2025-07-18 at 21.04.17.png]]
+![[Screenshot 2025-07-18 at 21.04.30.png]]
+- X errors change stabiliser eigenvalues (detectable!)
+
+## Error Detection Circuit
+**Stabiliser Measurement:**
+
+![[Screenshot 2025-07-18 at 21.04.53.png]]
+
+- Measures eigenvalue of operator A (±1)
+- Projects state into A's eigenspace
+- Output: 0=+1, 1=-1 eigenvalue
+
+**How It Works:**
+1. Creates superposition: `|0⟩+|1⟩`
+2. Applies controlled-A: `|0⟩|ψ⟩ + |1⟩A|ψ⟩`
+3. Interference reveals eigenvalue
+
+## Error Location Patterns
+
+![[Screenshot 2025-07-18 at 21.05.15.png]]
+
+Error patterns create unique "syndromes" of stabiliser flips
+
+## Graphical Representation
+**Triangle Code Example:**
+
+![[Screenshot 2025-07-18 at 21.05.41.png]]
+
+**Error Marking:**
+- Phase error on qubit 1 → flip both connected Z edges
+- Bit-flip error → flip face stabiliser
