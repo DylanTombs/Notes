@@ -308,3 +308,10 @@
 - Detects Z errors instead of X errors
 - Uses Hadamard transforms to change basis
 - Same detection principles apply
+
+## Stabilizer Fundamentals
+**Definition:**
+- An operator that leaves a quantum state unchanged (`S|ψ⟩ = |ψ⟩`)
+- The set of all stabilizers for a state forms its **stabilizer group**
+
+**Single-Qubit Examples:**
