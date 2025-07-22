@@ -94,10 +94,100 @@
 
 ---
 
-## ✅ Last-Minute Reminders
+## 🟨 How to Think Like a Trader
 
-- ⚡ Speed = edge (especially for Buy-Side)
-- 🤝 Always think **"What’s my counterparty’s goal?"**
-- 🧮 Keep track of **your P&L** and **inventory**
-- 🔄 Don’t overtrade — be selective
-- 🧊 Stay calm under pressure
+- **Everything is about Supply & Demand**  
+  → News changes how people feel about value → prices move.  
+  → If many people want to buy: price ↑. If they panic and sell: price ↓.
+
+- **You Don’t Need to Know Everything**  
+  → Your job is to **react to information quickly** and **manage risk**.  
+  → Focus on **probabilities**, not predictions.
+
+- **Asset Prices Reflect Expectations**  
+  → Prices move when *new info* breaks existing expectations.
+
+---
+
+## 🗞️ How to Interpret News in the Simulator
+
+- **Positive News**:
+  - Economic growth, good earnings → prices likely to go UP
+  - For commodities: supply shortage → price ↑
+
+- **Negative News**:
+  - Interest rate hikes, inflation concerns, scandals → price ↓
+
+- **Correlated Assets**:
+  - If news says “Gold is up due to war concerns,” **expect oil to move too**.
+  - Look for patterns like “risk-on” (stocks up, bonds down) or “risk-off” (stocks down, gold up).
+
+---
+
+## 🧮 Buy/Sell Decision Checklist
+
+- 🔎 **Has news changed the value?**
+- 📊 **Is the price reflecting that change yet?**
+- 🕒 **Am I early enough to profit, or is it already priced in?**
+- 📈 **Trend confirmation**: Is price moving in that direction?
+- ⚖️ **What’s my risk if I’m wrong?**
+
+---
+
+## 🧷 Risk Management Tips
+
+- Never go “all in” — keep buffer cash.
+- Diversify if unsure — e.g., 2 long, 1 short.
+- Don’t try to "win back" losses quickly — that’s gambling.
+- Use “stop loss” logic in your head: cut bad trades early.
+
+---
+
+## 🧠 Mental Models
+
+- **Second-Order Thinking**:  
+  “If this news is good for oil, what will it do to airline stocks?”
+
+- **Mean Reversion**:  
+  Assets often return to a "fair value" after hype/panic.
+
+- **Momentum**:  
+  If price is moving fast after news, others might join → temporary trend.
+
+---
+
+## 📚 Recommended Reading / Watching (Fast Learning)
+
+### 📘 Articles & PDFs
+- [AmplifyME Knowledge Hub](https://amplifyme.com/resources) — Their official blog/videos.
+- “The Basics of Financial Markets” – Investopedia [Free Starter Guide](https://www.investopedia.com/articles/basics/06/invest1000.asp)
+- Summary PDFs:
+  - Market Making (Investopedia)
+  - [“A Beginner’s Guide to Trading Psychology” – IG.com](https://www.ig.com/en/trading-strategies/trading-psychology-200121)
+
+### 🎥 YouTube Channels
+- **AmplifyME** – Their videos directly match the simulator.
+  - 🔍 Search: `AmplifyME Finance Accelerator Tutorial`
+- **Two Cents** – Fast, visual finance education.
+- **Bloomberg Quicktake** – Great for understanding market news.
+- **Ben Felix / Plain Bagel** – Logical, no-hype finance explanations.
+
+### 📘 Optional Books (Skim the right parts)
+- *“Flash Boys” – Michael Lewis* (MM & speed)
+- *“Trading for a Living” – Dr. Alexander Elder* (psychology + setup logic)
+- *“The Psychology of Money” – Morgan Housel* (mindset)
+
+---
+
+## 🎯 Practice Mindset
+
+- 🎮 **Simulator = Game**  
+  → The goal isn’t to “guess right” but to **react fast + manage risk**.
+
+- ⏱️ **Time Management**: Don’t freeze. Make fast, educated trades, and course-correct.
+
+- 🧠 **Learn from Mistakes**: After each round, reflect on:
+  - What news did I miss?
+  - Was I too slow to act?
+  - Did I hold a losing position too long?
+
