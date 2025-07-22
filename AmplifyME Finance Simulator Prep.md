@@ -156,6 +156,153 @@
 
 ---
 
+# 📊 Core Finance Concepts for AmplifyME Simulation
+
+---
+
+## 🏛️ 1. Market Structure (How Markets Work)
+
+- **Two-Sided Market**: Always a *bid* (buy) and *ask* (sell).
+  - 💡 *You can make money by being between them* (Market Maker role).
+- **Liquidity**: How easily you can buy/sell without moving price.
+- **Market Participants**:
+  - **Buy-Side**: Funds, analysts, clients (take positions)
+  - **Sell-Side**: Brokers, traders, market makers (provide liquidity)
+
+---
+
+## 📉 2. Order Types
+
+- **Market Order**: Executes immediately at best available price.
+  - ✔ Fast but risk of bad fill.
+- **Limit Order**: Sets a price; executes only if matched.
+  - ✔ Control over price, ❌ May not execute.
+- **Stop Loss**: Triggers a sell when price hits certain point.
+  - 🛑 Helps manage downside.
+
+---
+
+## 📈 3. Asset Classes You Might Trade
+
+### 🟡 Equities (Stocks)
+- Driven by:
+  - Earnings reports
+  - Economic growth
+  - Investor sentiment
+- React to **news about company performance, interest rates, inflation**
+
+### ⚪ Commodities (Oil, Gold)
+- Driven by:
+  - Supply & demand shocks
+  - Geopolitical tension (gold ↑ during war)
+  - Inflation hedge
+
+### 🔵 Bonds
+- Driven by:
+  - Interest rates (inverse relationship)
+  - Credit risk
+  - Inflation expectations
+
+---
+
+## 💵 4. Interest Rates & Central Banks
+
+- **If rates go up**:
+  - Bonds fall (fixed payments worth less)
+  - Stocks may fall (higher discount rate)
+  - Currencies strengthen
+
+- **If rates go down**:
+  - Bonds rise
+  - Stocks may rise
+  - Currencies weaken
+
+- **Central Banks (e.g. Fed)** control:
+  - Interest rates
+  - Inflation targets
+  - Liquidity injections
+
+---
+
+## 🧠 5. Economic Indicators (Common in AmplifyME News)
+
+| Indicator | What It Means | Reaction |
+|----------|----------------|----------|
+| GDP Growth | Strong economy | Equities ↑ |
+| Inflation (CPI) | Prices rising | Bonds ↓, Rates ↑ |
+| Unemployment | Weak job market | Equities ↓ |
+| PMI | Business confidence | High = Equities ↑ |
+| Interest Rate Hike | Cost of capital ↑ | Equities ↓, Bonds ↓ |
+| Fed Dovish Talk | Easier policy | Equities ↑, Bonds ↑ |
+
+---
+
+## 📊 6. Quick Valuation Terms
+
+- **Price = Present Value of Expected Cash Flows**
+- **Discount Rate**: Higher = lower price (inverse relation)
+- **Yield Curve**:
+  - Normal: Longer bonds yield more
+  - Inverted: Predicts recession (short-term bonds yield more)
+
+---
+
+## 🧮 7. Financial Math (Simple but Key)
+
+- **P&L = Value Today – Cost**
+- **Risk = Std Dev of Return**
+- **Sharpe Ratio = Return / Volatility**
+  - Higher = better risk-adjusted performance
+- **Hedge Ratio**: Offset exposure between assets
+
+---
+
+## 💡 8. Trading Logic by Role
+
+### 🟢 Buy-Side (Asset Manager)
+- Act on information faster than the market
+- Use expected value:
+  ```
+  EV = (Chance of News Being True) × (Size of Price Move)
+  ```
+- Size trades based on conviction and volatility
+
+### 🟡 Market Maker
+- Make a tight bid/ask spread to earn profit per trade
+- Widen spread in volatile conditions
+- Hedge with correlated assets (e.g., long stock, short ETF)
+
+### 🔵 Sales Trader
+- Quote competitive prices with low risk
+- Understand what client is trying to achieve
+- Communicate news-driven logic persuasively
+
+---
+
+## 🎯 9. Terminology Cheat Sheet
+
+| Term | Meaning |
+|------|---------|
+| Spread | Ask – Bid |
+| Slippage | Loss due to poor execution |
+| Correlation | How assets move together |
+| Arbitrage | Riskless profit from price difference |
+| VaR | Value at Risk (how much you could lose) |
+| Delta | Sensitivity to price change |
+| Beta | Volatility relative to market |
+
+---
+
+## 🧠 10. Real-Time Trading Mindset
+
+- **Am I first, fast, or right?**
+- **Is this already priced in?**
+- **What’s my edge?**
+- **Can I hedge this risk?**
+- **How will others react to this news?**
+
+
+
 ## 📚 Recommended Reading / Watching (Fast Learning)
 
 ### 📘 Articles & PDFs
