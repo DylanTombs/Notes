@@ -269,6 +269,8 @@
 
 ### 🟡 Market Maker
 - Make a tight bid/ask spread to earn profit per trade
+	- **Tight spreads = more client trades, more volume, more edge.**
+	- **Widen spread** if you're uncertain, market is volatile, or news just hit.
 - Widen spread in volatile conditions
 - Hedge with correlated assets (e.g., long stock, short ETF)
 
