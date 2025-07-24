@@ -328,15 +328,87 @@
 
 ---
 
-## 🎯 Practice Mindset
+# AmplifyME Finance Simulator – Improvements
 
-- 🎮 **Simulator = Game**  
-  → The goal isn’t to “guess right” but to **react fast + manage risk**.
+Date: [[2025-07-23]]
 
-- ⏱️ **Time Management**: Don’t freeze. Make fast, educated trades, and course-correct.
+##  Overall Goals
+- Push score from ~70% to 85%+
+- Improve communication and execution as Sales Trader
+- Refine decision-making speed and confidence as Asset Manager
+- Eliminate avoidable execution errors (fat fingers)
+- Maintain strengths: risk management, ROI, and market reaction
 
-- 🧠 **Learn from Mistakes**: After each round, reflect on:
-  - What news did I miss?
-  - Was I too slow to act?
-  - Did I hold a losing position too long?
+---
+
+## 🏦 Sales Trader (Sell-Side) – Focus Areas
+
+### 1. COMM (46%) – Commission
+- Be more proactive in chats
+  - Suggest trade ideas quickly: “Want to act on that inflation print?”
+- Push clients for execution: “Would you like to lift that offer?”
+- Build rapport early in session
+
+### 2. CT (59%) – Chat Trades
+- Increase number of client trades through chat
+  - Open multiple conversations simultaneously
+  - Offer market updates with actionable suggestions
+
+### 3. PnL (17%)
+- Enter trades faster — don’t wait for the “perfect” moment
+- Increase size slightly on high-conviction ideas
+- Cut losers early, take partial profits when ahead
+
+### 4. SSRM (55%) – Sell-Side Risk Management
+- Immediately hedge risk after client fills
+- Use exchange tactically: break up large trades into smaller blocks
+- Monitor book risk every 30 seconds
+
+---
+
+## 💼 Asset Manager (Buy-Side) – Focus Areas
+
+### 1. FFC (3%) – Fat Finger Count
+- Double-check direction (Buy/Sell), size, price **before clicking**
+- Slow down slightly on execution — better to be right than fast
+- Consider repeating trades verbally to yourself before submitting
+
+### 2. Maintain Strengths
+- ✅ BSRM (97%) – Buy-Side Risk Management
+  - Continue tight stop-loss control and solid Sharpe ratios
+- ✅ ROI (91%) – Return on Investment
+  - Good positioning, timing, and discipline
+- ✅ ES (82%) – Execution Score
+  - Keep refining entry timing near reference price
+- ✅ RA (83%) – Risk Appetite
+  - Stay decisive with cash deployment; avoid hesitation
+
+---
+
+## 🔁 Daily Practice Plan (10–20 mins)
+
+| Task | Duration | Focus |
+|------|----------|-------|
+| 🧠 Headline → Trade Reaction | 5 mins | Speed + market logic |
+| 🗣️ Sales Chat Simulation | 5 mins | COMM + CT |
+| 📉 Trade Entry/Exit Drill | 5 mins | PnL + execution |
+| ✅ Order Entry Typing Practice | 3–5 mins | Avoid fat fingers |
+
+---
+
+## 🧠 Reflection Prompts
+
+- Did I miss a key market signal?
+- Did I hesitate on a good opportunity?
+- Did I offer trade ideas clearly and on time?
+- Did I manage risk immediately after the trade?
+
+---
+
+## 🔄 Next Steps
+- Run another AmplifyME simulation
+- Track metric-by-metric progress
+- Use Obsidian daily notes to journal sessions
+
+
 
