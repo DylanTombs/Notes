@@ -4,17 +4,23 @@
  --- 
 ##  Core Idea
 
-> The idea
+> Classic MACD line cross + price above EMA(50). Ride trends with trailing stop.
+
  ---
 ## Indicators / Data Used
-- e.g., SMA(20), RSI(14), MACD, Order Book, Volume, etc.
+
+-  MACD 
+-  EMA
 ##  Entry Rules
 
-
+	MACD line cross + price above EMA(50)
 ##  Exit Rules
 
+	trailing stop
 
 ##  Parameters to Tune
+
+- EMA
 
 ##  Backtesting Notes
 
