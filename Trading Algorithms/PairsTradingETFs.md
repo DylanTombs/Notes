@@ -22,6 +22,7 @@
 
 - Buffer
 - Spread
+- Stocks
 
 ##  Backtesting Notes
 
