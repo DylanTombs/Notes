@@ -232,6 +232,62 @@
             }
           },
           {
+            "id": "b0a95d447c947b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QuantumStockSearch/Quantum Portfolio Optimisation Project.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Quantum Portfolio Optimisation Project"
+            }
+          },
+          {
+            "id": "76607651c6175ee6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QuantumStockSearch/Covariance Matrices in Portfolio Optimization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Covariance Matrices in Portfolio Optimization"
+            }
+          },
+          {
+            "id": "e5baf2ce1a0057ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QuantumStockSearch/Variational Quantum Eigensolver (VQE).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variational Quantum Eigensolver (VQE)"
+            }
+          },
+          {
+            "id": "cb49ee867659a8dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ansatz Circuit.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ansatz Circuit"
+            }
+          },
+          {
             "id": "19424c795429d9b5",
             "type": "leaf",
             "state": {
@@ -246,7 +302,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -404,10 +460,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "94f1a2845821ca00",
+  "active": "cb49ee867659a8dd",
   "lastOpenFiles": [
-    "AmplifyME Finance Simulator Prep.md",
+    "QuantumStockSearch/Variational Quantum Eigensolver (VQE).md",
+    "Ansatz Circuit.md",
+    "QuantumStockSearch/Covariance Matrices in Portfolio Optimization.md",
+    "QuantumStockSearch/Quantum Portfolio Optimisation Project.md",
     "Ideas.md",
+    "QuantumStockSearch",
+    "AmplifyME Finance Simulator Prep.md",
     "Trading Algorithms/PairsTradingETFs.md",
     "Trading Algorithms/MACD Momentum Trend.md",
     "Trading Algorithms/Mean Reversion.md",
@@ -440,9 +501,6 @@
     "Finance/Portfolio Theory.md",
     "Finance/Risk vs Return.md",
     "Finance",
-    "Quantum",
-    "Finance/Transformer.md",
-    "Finance/Asset Classes.md",
-    "UntitledFinance Fundam.md"
+    "Quantum"
   ]
 }
