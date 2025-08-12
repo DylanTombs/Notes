@@ -293,12 +293,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QuantumStockSearch/Dirichlet Distribution.md",
+                "file": "Quantum/Quantum Computing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dirichlet Distribution"
+              "title": "Quantum Computing"
             }
           },
           {
@@ -474,10 +474,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7ab79bc2fb2eafa",
+  "active": "55f6462c8a88700e",
   "lastOpenFiles": [
-    "Ansatz Circuit.md",
     "QuantumStockSearch/Dirichlet Distribution.md",
+    "Ansatz Circuit.md",
     "QuantumStockSearch/Variational Quantum Eigensolver (VQE).md",
     "QuantumStockSearch/Covariance Matrices in Portfolio Optimization.md",
     "QuantumStockSearch/Quantum Portfolio Optimisation Project.md",
