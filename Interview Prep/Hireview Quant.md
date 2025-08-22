@@ -10,6 +10,8 @@ I enjoy applying advanced mathematics and computer science to problems with real
 
 In my Financial Time-Series Transformer project, I trained a model to forecast equity movements using historical prices and technical indicators. Time-series data is noisy and prone to overfitting. To address this, I used rolling-window backtests, hybrid loss functions, and documented reproducibility protocols. I also used Optuna for hyperparameter tuning, focusing on improving stability of the Sharpe ratio, not just raw accuracy. This disciplined approach ensured the model generalised better across assets and time periods.
 
+---
+
 ## How would you model correlation risk between two assets?
 
 I’d start with historical return data, compute correlations, and examine stability over rolling windows. Beyond linear correlation, I’d use copula methods to capture tail dependencies, especially important in stress scenarios. For portfolio-level risk, I’d feed these into a covariance matrix and run Monte Carlo simulations. In my quantum-enhanced portfolio optimisation research, I experimented with both Monte Carlo and quantum approaches to simulate such dependencies, which reinforced how critical correlation modelling is to realistic risk management.
