@@ -15,7 +15,7 @@ I’m following the role of AI in financial services. On one hand, firms are int
 
 ## Tell me about a time you had to learn something new quickly.
 
-During my internship at Collaborative Conveyancing, I was asked to support an LLM project by designing Python pipelines for legal email data. At the time, I had limited experience with NLP in legal contexts. I quickly researched preprocessing techniques, built regex-driven cleaning functions, and adapted them for large-scale datasets of over 10,000 emails. Within weeks, I had a working pipeline that improved data quality for client demos. This showed me how I can pick up new concepts rapidly and apply them in a practical, results-focused way.
+During my internship at Collaborative Conveyancing, I was asked to support an LLM project by designing Python pipelines for legal email data. At the time, I had limited experience with NLP. I quickly researched preprocessing techniques, built regex-driven cleaning functions, and adapted them for large-scale datasets of over 10,000 emails. Within weeks, I had a working pipeline that improved data quality for client demos. This showed me how I can pick up new concepts rapidly and apply them in a practical, results-focused way.
 
 ---
 
