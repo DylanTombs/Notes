@@ -52,8 +52,18 @@ In my first internship, I presented an early draft of my data cleaning pipeline.
 
 ## Why do you wanna join BlackRock
 
-"I am particularly motivated to join Ares Management due to your firm's distinguished reputation for deep, bottom-up fundamental research in credit. Another principle I have taken a key eye to is the emotional ownership of the company as for me 
+"I particularly want to join BlackRock due to the firm's constant pushing for performance and results in a team environment while most importantly building trust and having solid and strong relationships with clients. Another principle I have taken a key eye to is the emotional ownership of the company as for me someone who enjoys integrating ML and data driven insights, accepting responsibility of of the failure of things and with that comes a refined and better performances levels. With regards to performance I like the idea of the relentless want for innovation and more as this really reflects how I go about my projects, constantly refining and iterative till i get repeatable and good results. 
 
-## Describe a condition where you encounter conflicting data or information. Recent market news and how that impacts the market and individual.
+## Describe a condition where you encounter conflicting data or information. 
+
+## Recent market news and how that impacts the market and individual.
+
+One of the most significant recent market developments is the announcement of new tariffs on Chinese imports. This is a perfect example of how news directly drives market volatility.
+
+The immediate impact is a classic where investors anticipate fear about supply chains and higher costs of imported stuff and this causes sell-offs in sectors like technology and consumer discretionary. For the individual investor, this creates uncertainty and often leads to reactive, emotionally-driven decisions—like selling on the headline—which can lock in losses.
+
+This is precisely why my work on the **Stock Sentiment Analyser project** is so relevant. We're using LLMs and NLP to quantify market sentiment from news and social media. An event like this creates a massive, predictable sentiment shock which for me proves the market hole of **human reaction time.** An individual might read the news later or even act rash and emotionally. In contrast, a machine learning model, trained on historical data, can instantly read the headline, generate a probability, and execute a data-driven strategy just like that. 
+
+This speed and objectivity in interpreting news is a modern source of alpha. It’s not just about having the information; it’s about processing it faster and more systematic. 
 
 ## Tell me a time you made a data-driven decision
