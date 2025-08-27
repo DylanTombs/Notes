@@ -3,13 +3,8 @@
 
 ## Why are you interested in a career investment banking?
 
-I’m motivated by the intellectual challenge and fast pace of investment banking. My background in computer science and mathematics has trained me to break down complex problems, and my internships have given me experience in both data-driven decision making and client-focused communication. At Collaborative Conveyancing I combined competitive analysis with LLM data pipelines to support strategic positioning, and at DeepLearnHS I translated highly technical AI concepts into an investor-facing demo. I want to bring that analytical and client-communication skillset into banking, where delivering precise solutions under time pressure makes a direct impact.
+I'm interested in investment banking because I am fundamentally driven by solving strategic problems. While I have a technical background, my passion lies in applying that analytical rigor to the real-world challenges clients and the firm face. The process of analysis, building complex models, and working with a team to advise clients on decisions is incredibly interesting to me as I find it a good balance of .  At Collaborative Conveyancing I combined this analysis with LLM data pipelines and it helped support positioning, and similarly at DeepLearnHS I translated highly technical AI concepts into an investor-facing demo. I want to bring that analytical and client-communication skillset into banking, where delivering solutions under time pressure makes a impact. That's the same discipline I want to bring to advising clients at investment banking at BlackRock.
 
----
-
-## What recent market development do you find interesting?
-
-I’m following the role of AI in financial services. On one hand, firms are integrating AI to improve efficiency, from data pipelines to trading strategies. On the other, regulators are increasingly scrutinising AI’s use in risk management and client-facing contexts. This intersection of innovation and regulation creates both opportunities and challenges for investment banks, particularly in advising clients on technology-driven M&A and capital raising. Beyond projects and experiences, I keep a deep understanding of the markets through engagements of newsletters, like the Daily Peel and the Morning Brew. I've made it a part of my daily routine and allows me to keep my work recent and with the market. Additionally, these insights help contextualise my work, like my models, within broader macroeconomic trends.
 
 ---
 
@@ -52,7 +47,7 @@ In my first internship, I presented an early draft of my data cleaning pipeline.
 
 ## Why do you wanna join BlackRock
 
-"I particularly want to join BlackRock due to the firm's constant pushing for performance and results in a team environment while most importantly building trust and having solid and strong relationships with clients. Another principle I have taken a key eye to is the emotional ownership of the company as for me someone who enjoys integrating ML and data driven insights, accepting responsibility of of the failure of things and with that comes a refined and better performances levels. With regards to performance I like the idea of the relentless want for innovation and more as this really reflects how I go about my projects, constantly refining and iterative till i get repeatable and good results. 
+I particularly want to join BlackRock due to the firm's constant pushing for performance and results in a team environment while most importantly building trust and having solid and strong relationships with clients. Another principle I have taken a key eye to is the emotional ownership of the company as for me someone who enjoys integrating ML and data driven insights, accepting responsibility of of the failure of things and with that comes a refined and better performances levels. With regards to performance I like the idea of the relentless want for innovation and more as this really reflects how I go about my projects, constantly refining and iterative till i get repeatable and good results. 
 
 ## Describe a condition where you encounter conflicting data or information. 
 
