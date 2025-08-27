@@ -44,6 +44,13 @@ In my first internship, I presented an early draft of my data cleaning pipeline.
 
 ## Tell me about yourself?
 
+I am a Computer Science and Mathematics student at the University of Bath, fundamentally driven by solving complex, high-stakes problems with rigorous analysis—which is why I'm passionately pursuing a career in investment banking.
+
+My projects, like building a transformer-based forecasting model, are exercises in  analysis and financial modeling, requiring me to test assumptions and iterate until I have a robust, accurate result. This directly mirrors the IB process of valuation and due diligence.
+
+In my internships, I focused on the client-facing application of this skillset. At DeepLearnHS, I translated the technical AI models into  narratives for Series A investors, which is similar to conveying complex financial data into an equity story. I'm now seeking to apply this combination of analytical depth and client-oriented communication at the highest level.
+
+That realization is why I'm so focused on investment banking. I'm seeking a career where deep fundamental analysis, client advisory, and teamwork under pressure are used to solve the most complex business challenges, which is why I'm so excited to be speaking with you today.
 
 ## Why do you wanna join BlackRock
 
@@ -53,12 +60,10 @@ I particularly want to join BlackRock due to the firm's constant pushing for per
 
 ## Recent market news and how that impacts the market and individual.
 
-One of the most significant recent market developments is the announcement of new tariffs on Chinese imports. This is a perfect example of how news directly drives market volatility.
+One of the most significant recent market developments is the announcement of new tariffs on  imports. This is a perfect example of how news directly drives market volatility.
 
-The immediate impact is a classic where investors anticipate fear about supply chains and higher costs of imported stuff and this causes sell-offs in sectors like technology and consumer discretionary. For the individual investor, this creates uncertainty and often leads to reactive, emotionally-driven decisions—like selling on the headline—which can lock in losses.
+The immediate impact is a classic of investors fearing about supply chains and higher costs of imported stuff and this causes sell-offs in sectors like technology and consumer discretionary. For the individual investor, this creates uncertainty and often leads to reactive, emotionally-driven decisions—like selling on the headline—which can lock in losses.
 
-This is precisely why my work on the **Stock Sentiment Analyser project** is so relevant. We're using LLMs and NLP to quantify market sentiment from news and social media. An event like this creates a massive, predictable sentiment shock which for me proves the market hole of **human reaction time.** An individual might read the news later or even act rash and emotionally. In contrast, a machine learning model, trained on historical data, can instantly read the headline, generate a probability, and execute a data-driven strategy just like that. 
-
-This speed and objectivity in interpreting news is a modern source of alpha. It’s not just about having the information; it’s about processing it faster and more systematic. 
+For me this is why my work on the **Stock Sentiment Analyser** is relevant, it quantifies the market in a sense. Now For an investment banker advising a client, this is crucial. This sentiment can impact a client's valuation, or alter the strategic positioning for an acquisition. Understanding and anticipating these sentiment-driven swings allows a bank to provide more forward-looking advice, helping clients navigate volatility rather than just instinctively and emotionally react to it.
 
 ## Tell me a time you made a data-driven decision
