@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Hashing and Prefix Sum.md",
+                "file": "Interview Prep/Hireview IB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hashing and Prefix Sum"
+              "title": "Hireview IB"
             }
           }
         ],
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "469c5268d75f61e6",
@@ -223,11 +224,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7ab79bc2fb2eafa",
+  "active": "2a27bb6fb25199ad",
   "lastOpenFiles": [
+    "LeetCode/Hashing and Prefix Sum.md",
     "LeetCode/Arrays and Strings.md",
     "LeetCode/Random.md",
-    "LeetCode/Hashing and Prefix Sum.md",
     "Python.md",
     "LeetCode",
     "Finance/Financial Statements.md",
