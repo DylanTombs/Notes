@@ -92,7 +92,7 @@ For me this is why my work on the **Stock Sentiment Analyser** is relevant, it
 
 ## Why do you wanna join J.P. Morgan?
 
-What excites me about J.P. Morgan is its ability to combine world-class research with innovation, while never losing sight of the client-first mindset. The firm has a reputation for producing rigorous and forward-looking insights that clients genuinely rely on, and that’s something I deeply admire. For example, I was particularly interested in your paper on _Conservative Bias in Large Language Models_. To me, this demonstrated not only technological expertise but also a commitment to transparency and trust in research – ensuring that when you innovate, you do so responsibly.
+What excites me about J.P. Morgan is its ability to combine world-class research with innovation, while never losing sight of the client-first mindset. The firm has a reputation for producing rigorous and forward-looking insights that clients genuinely rely on, and that’s something I deeply admire and look for in a firm. For example, I was particularly interested in your paper on _Conservative Bias in Large Language Models_. To me, this demonstrated not only technological expertise but also a commitment to transparency and trust in research – ensuring that when you innovate, you do so responsibly and understand the risks you are taking.
 
 That really resonates with my own approach. In a recent project, I led a team building a FinBERT and LLM-based sentiment index, where ensuring interpretability and reproducibility was just as important as generating predictive power. What stood out to me is that J.P. Morgan takes the same view – that research has to be robust and explainable to deliver value.
 
