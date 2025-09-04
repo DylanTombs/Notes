@@ -132,14 +132,14 @@ That experience showed me how powerful diverse perspectives can be when they’r
 
 ### What skills do you think are most important for success in this internship?
 
-I think success in Markets Research comes down to three things: curiosity, discipline, and communication. Curiosity drives you to dig into datasets, question assumptions, and explore new methodologies — it’s what led me to build projects like a Transformer-based equity forecaster and a quantum-enhanced optimiser. Discipline ensures the results aren’t just novel but reproducible, risk-aware, and client-ready — qualities I developed in simulations where I consistently ranked top 10 by balancing returns with risk management. And communication ties it together, because no matter how strong the research, clients need it presented clearly and with conviction.
+I think success in Markets Research comes down to three things: curiosity, discipline, and communication. Curiosity is definitely important. It drives me to look into datasets, question assumptions, and explore new methodologies — it has led me to build projects like a Transformer-based equity forecasting model and a quantum-enhanced optimiser. Discipline ensures the results aren’t just novel but reproducible, risk-aware, and client-ready — qualities I developed in simulations where I consistently ranked top 10 by balancing returns with risk management. And communication ties it together, because no matter how strong the research, clients need it presented clearly and with conviction.
 
 J.P. Morgan embodies this blend. The culture of rigorous, innovative research combined with client-first transparency is exactly where I want to apply my skills, and I believe those three traits will allow me to add real value to the team.
 
 ### Tell me about a time you had to communicate complex information to a non-technical audience.
 
-During my internship at DeepLearnHS, I worked with AI engineers to take a proprietary deep learning model and turn it into an investor-ready animated demo. The model itself was highly technical, but our audience — investors — needed to understand its function, value, and reliability without diving into the mathematics.
+During my internship at DeepLearnHS, I worked with AI engineers to take a proprietary deep learning model and turn it into an investor-ready animated demo. The model itself was highly technical, but our audience — investors — needed to understand its function, value, and reliability without diving into the backbone of the model. 
 
-I focused on simplifying the language, breaking the system into clear steps, and illustrating how the model’s performance compared to benchmarks. To reinforce credibility, I emphasised interpretability and practical outcomes, not just technical jargon. The demo was delivered ahead of schedule, and the feedback was that it gave investors both clarity and confidence.
+I focused on simplifying the language, breaking the system into managable chunks, and illustrating how the model’s performance compared to benchmarks. To reinforce credibility, I emphasised interpretability and practical outcomes. The demo was delivered ahead of schedule, and the feedback was that it gave investors both clarity and confidence.
 
 That experience taught me that even the strongest analysis only creates value if people can act on it. For research at J.P. Morgan, the same principle applies: turning sophisticated modelling into clear, actionable insights that clients can trust.
