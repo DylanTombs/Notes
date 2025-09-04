@@ -109,3 +109,37 @@ I admire how Bank of America’s Global Research division transforms complex dat
 Another reason I admire the firm is the way it takes a forward-looking view of markets and technology. Bank of America doesn’t just report on what’s happening – it anticipates trends and equips clients to make decisions in advance. That proactive mindset is something I strive for in my own projects and simulations. For example, in financial trading simulations across multiple markets, I achieved top-10 performance by not just chasing returns but by anticipating risks and managing them carefully. That balance of discipline and foresight is exactly what I see in Bank of America’s research approach.
 
 Ultimately, what makes Bank of America so appealing to me is its culture of responsibility – both in the way it serves clients and in how it encourages teams to work together. It’s a place where I can apply my technical background in machine learning and optimisation, but also where I know I’ll grow by learning from colleagues who are equally committed to excellence and collaboration. That combination makes it the perfect place for me to build my career.
+
+## How do you handle situations where your initial approach doesn’t work?
+
+I’ve learned to treat those situations as opportunities to refine my thinking. For instance, when I was developing a Transformer-based equity forecasting model, my first iterations were overfitting badly. It would perform extremely well on training data but fail to generalise. Instead of discarding the idea, I broke down the problem: I experimented with different regularisation techniques, reduced the parameter space, and re-framed the feature set around more meaningful financial indicators.
+
+What started as a frustrating setback became one of the most valuable parts of the project. I ended up with a model that was not only more accurate but also interpretable, which for me was just as important.
+
+That experience taught me two things. First, that persistence and iteration are crucial when working in complex systems. Second, that admitting an approach isn’t working and systematically re-evaluating is far more productive than pushing forward blindly. Those are lessons I’d carry into research at J.P. Morgan, where rigour and adaptability are key to providing clients with reliable insights.
+
+In the end, I see setbacks not as failures, but as checkpoints that refine my thinking — an approach I know is vital in research, where clients depend on us for solutions that are both innovative and dependable.
+
+## Tell me about a time you worked in a team with different perspectives.
+
+When I was leading the sentiment analysis project, our team of eight included people with very different backgrounds – some were more technical, some more finance-focused. At first, this created challenges: the technical members wanted to dive into modelling choices, while the finance students were more interested in how sentiment mapped to actual equity performance.
+
+I realised that if we were going to succeed, I needed to create a common framework that tied the two together. So, I organised the workflow so that finance-focused members defined the key indicators and hypotheses, while the technical members built pipelines to test those hypotheses. That way, each group could play to its strengths, but we were always aligned on the same end goal.
+
+The outcome was that not only did the project become more structured and effective, but people also felt their perspectives were respected and integrated. I think this mirrors the kind of collaboration needed in markets research at J.P. Morgan, where multiple disciplines intersect. For me, it was a great reminder that diverse perspectives, if managed well, create stronger results.
+
+That experience showed me how powerful diverse perspectives can be when they’re channelled towards a shared goal — a mindset I’d bring to every collaboration at J.P. Morgan.
+
+### What skills do you think are most important for success in this internship?
+
+I think success in Markets Research comes down to three things: curiosity, discipline, and communication. Curiosity drives you to dig into datasets, question assumptions, and explore new methodologies — it’s what led me to build projects like a Transformer-based equity forecaster and a quantum-enhanced optimiser. Discipline ensures the results aren’t just novel but reproducible, risk-aware, and client-ready — qualities I developed in simulations where I consistently ranked top 10 by balancing returns with risk management. And communication ties it together, because no matter how strong the research, clients need it presented clearly and with conviction.
+
+J.P. Morgan embodies this blend. The culture of rigorous, innovative research combined with client-first transparency is exactly where I want to apply my skills, and I believe those three traits will allow me to add real value to the team.
+
+### Tell me about a time you had to communicate complex information to a non-technical audience.
+
+During my internship at DeepLearnHS, I worked with AI engineers to take a proprietary deep learning model and turn it into an investor-ready animated demo. The model itself was highly technical, but our audience — investors — needed to understand its function, value, and reliability without diving into the mathematics.
+
+I focused on simplifying the language, breaking the system into clear steps, and illustrating how the model’s performance compared to benchmarks. To reinforce credibility, I emphasised interpretability and practical outcomes, not just technical jargon. The demo was delivered ahead of schedule, and the feedback was that it gave investors both clarity and confidence.
+
+That experience taught me that even the strongest analysis only creates value if people can act on it. For research at J.P. Morgan, the same principle applies: turning sophisticated modelling into clear, actionable insights that clients can trust.
