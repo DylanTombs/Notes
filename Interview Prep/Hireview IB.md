@@ -96,7 +96,7 @@ What excites me about J.P. Morgan is its ability to combine world-class research
 
 That really resonates with my own approach. In a recent project, I led a team building a FinBERT and LLM-based sentiment index, where ensuring interpretability and reproducibility was just as important as generating predictive power. What stood out to me is that J.P. Morgan takes the same view – that research has to be robust and explainable to deliver value.
 
-Beyond research, what also makes J.P. Morgan stand out to me is the collaborative culture and global impact. From my perspective, this is a place where innovation doesn’t happen in isolation – it’s powered by teams, diverse perspectives, and the drive to solve client challenges. Having experienced this myself in the Amplify Finance Accelerator – where I ranked in the top 10 for returns while focusing on risk management – I know how much stronger results are when discipline is combined with collaboration.
+Beyond research, what also makes J.P. Morgan stand out to me is the collaborative culture and global impact. From my perspective, this is a place where innovation doesn’t happen in isolation – it’s powered by teams, diverse perspectives, and the drive to solve client challenges. Having experienced this myself within the team project
 
 That’s why I’m so motivated to join J.P. Morgan. It’s not just about the scale of the firm or its reputation, but the way it operates – balancing innovation with rigour, teamwork with individual accountability, and research with client trust. Those are the same values I hold, and they’re the qualities I’m eager to bring to J.P. Morgan’s research team.
 
