@@ -114,6 +114,15 @@ I was particularly impressed by the introduction of Bank of America’s Fast Con
 
 Ultimately, what makes Bank of America so appealing to me is its culture of responsibility – both in the way it serves clients and in how it encourages teams to work together. It’s a place where I can apply my technical background in machine learning and optimisation, but also where I know I’ll grow by learning from colleagues who are equally committed to excellence and collaboration. That combination makes Bank of America the perfect place for me to build my career.
 
+
+## Why do you want to join William Blair?
+
+What excites me about William Blair is the way the firm blends rigorous equity research with forward-looking insights that guide investors through cycles. A great example is Neal Dingmann’s recent work on the energy sector, where despite short-term commodity noise, the research highlights a likely cyclical bottom and an inflection point for investors. That balance between short-term data and long-term allocation strategy really resonated with me.
+
+In my own experience, I’ve worked on projects that echo this approach. For example, in a Forage program I developed a machine learning model to predict seasonal swings in oil and gas, which required filtering out short-term volatility to extract meaningful patterns for allocation decisions. Similarly, my quantum-enhanced portfolio optimiser project was focused on asset allocation — benchmarking quantum against classical methods to see which allocations most efficiently balanced risk and return. Both experiences showed me how crucial allocation and timing are to performance, which aligns with William Blair’s philosophy that over 90% of portfolio variability stems from allocation choices.
+
+That’s why I find William Blair’s research culture so appealing. It’s not just about tracking markets, but about making research actionable, client-relevant, and forward-looking. I’d be eager to contribute to that by bringing both my technical research background and my focus on clarity and client impact.
+
 ## How do you handle situations where your initial approach doesn’t work?
 
 I’ve learned to treat those situations as opportunities to refine my thinking. For instance, when I was developing a Transformer-based equity forecasting model, my first iterations were overfitting badly. It would perform extremely well on training data but fail to generalise. Instead of discarding the idea, I broke down the problem: I experimented with different regularisation techniques, reduced the parameter space, and re-framed the feature set around more meaningful financial indicators.
