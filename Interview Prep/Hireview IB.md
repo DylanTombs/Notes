@@ -16,8 +16,18 @@ I've proactively validated this interest through practical application. For exam
 My experiences at DeepLearnHS and Collaborative Conveyancy—**translating technical complexity into clear value for clients**—confirmed that my skills are best applied in a client-facing, advisory role. Investment banking is where I can merge this analytical depth with strategic thinking to deliver tangible impact for clients.
 
 
-
 ---
+
+### Why are you interested in Market Research?
+
+
+What excites me about a career in **Global Research** is the role it plays in connecting data, markets, and decision-making. Research is at the heart of helping clients understand complex signals and turn them into actionable insights, and I’ve always been motivated by that challenge of making sense of this uncertainty within markets.
+
+In my academic work, I’ve had the chance to explore research projects that mirror this. For example, I built a **quantum-enhanced portfolio optimiser** using a Variational Quantum Eigensolver to identify optimal asset allocations. A big part of the project was benchmarking it against classical methods, testing its robustness, and understanding not just when it works, but why. That experience taught me how to approach problems methodically, evaluate trade-offs, and deliver research that is transparent and reproducible — qualities that are just as important in financial research.
+
+Beyond university, I reinforced this at **DeepLearnHS**, where I worked with AI engineers to translate a proprietary model into an investor-ready demo. That meant simplifying technical complexity without losing accuracy, ensuring the end result was not only correct but also clear and compelling to clients. To me, that’s exactly what great research does — it bridging the gap of technical complexity with clarity and trust.
+
+So for me, **Global Research is the ideal fit** — it combines the analytical depth I enjoy with the responsibility of generating insights that clients can actually use to make decisions. It’s that intersection of innovation and impact that makes me excited to pursue this path with ___. 
 
 ## Tell me about a time you had to learn something new quickly.
 
@@ -28,12 +38,6 @@ During my internship at Collaborative Conveyancing, I was asked to support an LL
 ## Describe a time you worked with people from different backgrounds.
 
 At DeepLearnHS, I collaborated with both AI engineers and non-technical stakeholders. The engineers built complex models, while investors wanted a clear narrative of how the product worked. I acted as the bridge, creating an animation that translated technical mechanics into an intuitive demo. By listening to each group’s priorities and using both technical and creative skills, I delivered something that satisfied both audiences and directly supported the Series A fundraising.
-
----
-
-## Tell me about a mistake you made and what you learned.
-
-Early in my equities forecasting project, I focused too much on maximising raw model accuracy without fully accounting for trading costs and realistic constraints. The backtests looked impressive, but when I factored in transaction costs, the strategy underperformed. I corrected this by redesigning the evaluation framework with rolling-window splits and more robust metrics like Sharpe ratio. It taught me the importance of practicality and attention to detail — a mindset I’d bring to banking, where clients expect accurate and realistic analysis under pressure.
 
 ---
 
@@ -106,11 +110,9 @@ I became particularly interested in Bank of America after attending the firm-wid
 
 I admire how Bank of America’s Global Research division transforms complex data into clear, actionable insights that clients can rely on in volatile markets. That clarity is something I really value. In my own work, whether on a Transformer-based equity forecasting model or a quantum-enhanced portfolio optimiser, I’ve learned that research is only valuable if it’s reproducible, transparent, and ultimately understandable. That’s the philosophy I see mirrored in Bank of America’s research, and it’s why the opportunity excites me so much.
 
-I was particularly impressed by the introduction of Bank of America’s Fast Convergence (FC) technology in volatility-controlled indices. Moving beyond traditional once-a-day rebalancing, this innovation systematically rebalances every hour, providing faster, more robust risk management and better long-term performance. To me, this reflects the kind of forward-looking research and engineering that sets the firm apart – tackling problems not just conceptually, but with practical systems that enhance both stability and client outcomes. It’s the same spirit I strive for in my own projects, where model interpretability and robustness are just as important as predictive accuracy.
+I was particularly impressed by the introduction of Bank of America’s Fast Convergence (FC) technology in volatility-controlled indices. Moving beyond traditional once-a-day rebalancing, it systematically rebalances every hour, providing faster and strong risk management for better long-term performance. To me, this reflects the kind of forward-looking research and engineering that sets the firm apart. For me its the way you are tackling problems not just conceptually, but with practical systems that improve both stability and client results. It’s the same spirit I strive for in my own projects, where model interpretability and risk-management are just as important as their predictive accuracy.
 
-Another reason I admire the firm is the way it takes a forward-looking view of markets and technology. Bank of America doesn’t just report on what’s happening – it anticipates trends and equips clients to make decisions in advance. That proactive mindset is something I strive for in my own projects and simulations. For example, in financial trading simulations across multiple markets, I achieved top-10 performance by not just chasing returns but by anticipating risks and managing them carefully. That balance of discipline and foresight is exactly what I see in Bank of America’s research approach.
-
-Ultimately, what makes Bank of America so appealing to me is its culture of responsibility – both in the way it serves clients and in how it encourages teams to work together. It’s a place where I can apply my technical background in machine learning and optimisation, but also where I know I’ll grow by learning from colleagues who are equally committed to excellence and collaboration. That combination makes it the perfect place for me to build my career.
+Ultimately, what makes Bank of America so appealing to me is its culture of responsibility – both in the way it serves clients and in how it encourages teams to work together. It’s a place where I can apply my technical background in machine learning and optimisation, but also where I know I’ll grow by learning from colleagues who are equally committed to excellence and collaboration. That combination makes Bank of America the perfect place for me to build my career.
 
 ## How do you handle situations where your initial approach doesn’t work?
 
@@ -118,7 +120,7 @@ I’ve learned to treat those situations as opportunities to refine my thinking.
 
 What started as a frustrating setback became one of the most valuable parts of the project. I ended up with a model that was not only more accurate but also interpretable, which for me was just as important.
 
-That experience taught me two things. First, that persistence and iteration are crucial when working in complex systems. Second, that admitting an approach isn’t working and systematically re-evaluating is far more productive than pushing forward blindly. Those are lessons I’d carry into research at J.P. Morgan, where rigour and adaptability are key to providing clients with reliable insights.
+That experience taught me two things. First, that persistence and iteration are crucial when working in complex systems. Second, that admitting that my approach wasn't working and systematically re-evaluating is far more productive than pushing forward blindly. Those are lessons I’d carry into research at J.P. Morgan, where rigour and adaptability are key to providing clients with reliable insights.
 
 In the end, I see setbacks not as failures, but as checkpoints that refine my thinking — an approach I know is vital in research, where clients depend on us for solutions that are both innovative and dependable.
 
